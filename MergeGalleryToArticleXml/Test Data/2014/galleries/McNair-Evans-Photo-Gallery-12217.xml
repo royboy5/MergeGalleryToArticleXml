@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[McNair Evans Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/McNair_0016.jpg" width="550" height="440" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; McNair Evans]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[McNair Evans spent a year making images that were both biographical depictions of his father's life and incfluence, and autobiographical images that explored his own turmoil as a son.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/McNair_005c.jpg" width="550" height="440" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; McNair Evans]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Evan's images also allude to a family history and the history of agrarian communities in the South.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/McNair_3_004.jpg" width="550" height="442" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; McNair Evans]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Image from "Confessions for a Son."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/McNair_001.jpg" width="550" height="440" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; McNair Evans]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Image from "Confessions for a Son."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/McNair_008.jpg" width="550" height="440" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; McNair Evans]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA["What we went through [as a family], that was really something serious," Evans says. "And it was okay to be sad about that, to be pissed off and angry."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/McNair_010.jpg" width="550" height="443" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; McNair Evans]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Image from "Confessions for a Son]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/McNair_123.jpg" width="550" height="441" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; McNair Evans]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Image from "Confessions for a Son."]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Art World ]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Freeberg_Sean_Kelly_ARTICLE.jpg" width="450" height="294" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; ANDY FREEBERG]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[“Sean Kelly, Art Miami Basel 2010, Artist: Kehinde Wiley,” from Andy Freeberg’s series “Art Fare.” ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Greenberg_Red-suits_0687_SLIDESHOW.jpg" width="550" height="412" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; JILL GREENBERG]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[“150505 Painting 017 (2015)” from Jill Greenberg’s “Paintings” series.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Greenberg_150505_017_SLIDESHOW.jpg" width="349" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; JILL GREENBERG]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[“GSC_687,” 2010, from Greenberg's series “Glass Ceiling.” ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/KCOOLEY.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[&copy; KEVIN COOLEY]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Part of a series commissioned from Kevin Cooley by Avinor, the Norwegian government organization that operates civilian airports in the country. This work was based on Cooley’s “Nachtfluge” fine-art series.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/KCOOLEY_NROL_65_Spy_Satelite_Launch_SLIDESHOW.jpg" width="550" height="195" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; KEVIN COOLEY]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[“NROL-65 Spy Satellite Launch,” from Cooley’s series “Unexplored Territory.”]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Michael Ashkin Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/michael-ashkin-long-branch-5.jpg" width="360" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Michael Ashkin]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[An image from Long Branch, a new book of photographs by Michael Ashkin that contemplates a New Jersey real-estate battle between longtime residents, local-government and developers.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/michael-ashkin-long-branch-1.jpg" alt="gallery image 2" width="357" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Michael Ashkin]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[When Michael Ashkin returned to Long Branch in 2002, he noticed that "something seemed odd and wrong" with the community he'd known as a child.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/michael-ashkin-long-branch-3.jpg" width="360" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Michael Ashkin]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA["Dead-on pictures of buildings and objects did not sufficiently capture the sense or truth of the space," Ashkin says.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/michael-ashkin-long-branch-2.jpg" width="361" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Michael Ashkin]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[By moving his camera off-center, he tried to capture "that which is not really visible anyway, for instance, the larger forces acting on the landscape."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/michael-ashkin-long-branch-4.jpg" width="361" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Michael Ashkin]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[The Long Branch story, which predated the 2008 economic collapse fed by a risky real estate bubble, takes on a new significance now.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Social Media Usage]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/AnnaWilliams.jpg" width="450" height="220" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; ANNA WILLIAMS]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">Another image from Anna Williams’s digital and social media campaign for Michael Kors. The image earned more than 62,000 likes on the @michaelkors Instagram feed. </p>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/AndrewSoutham.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; ANDREW SOUTHAM]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">An Andrew Southam image shot for a Facebook-only campaign for Lysol.</p>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/StephanieRausser.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; STEPHANIE RAUSSER]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[From a digital and social media campaign shot by Stephanie Rausser for Alba.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/ChrisCraymer.jpg" width="550" height="328" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; CHRIS CRAYMER]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">A photo for Tiffany &amp; Co.’s blog and social media channels shot by Chris Craymer, who is repped by Sarah Laird &amp; Good Company. </p>]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

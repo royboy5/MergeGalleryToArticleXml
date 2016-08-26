@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Dylan Coulter Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/dylan-coutler-NEYMAR_01_SLIDESHOW_SLIDESHOW.jpg" alt="© Dylan Coulter" width="550" height="336" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Dylan Coulter]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Neymar da Silva Santos J&uacute;nior, who plays for Brazil's national football team, photographed for <em>The New York Times Magazine.&nbsp; </em>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/dylan-coutler-14026_DC_ESPN_Ziegler_shot01-0102_06-RGB_SLIDESHOW.jpg" alt="© Dylan Coulter" width="550" height="358" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Dylan Coulter]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Pitcher Brad Ziegler's submarine delivery, captured for a story on pitchers' form for <em>ESPN the Magazine.&nbsp; </em>]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

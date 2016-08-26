@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Code and Theory Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/ESSIE-Opening_Night_CMYK_Slideshow.jpg" alt="© Greg Delves" width="394" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Greg Delves]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[One of the original nail looks for essie's website, photographed by Greg Delves. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Big-Eyes-L1155106-Edit2_Slideshow.jpg" alt="© Brandon Ralph" width="315" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Brandon Ralph]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Images from "The Girl With the Big Eyes" campaign for Maybelline, shot by Brandon Ralph. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Maybelline-City_FALL_Macro_3_123_rgb-crop_Slideshow.jpg" alt="© Felix Lammers" width="355" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Felix Lammers]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;An image by Felix Lammers from a "Get The Look" shoot for Maybelline CITY, Maybelline New York's monthly online magazine. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/10_Finlandia_Drinks_Photo_Direction_Slideshow.jpg" alt="© Kimmo Syväri " width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Kimmo Syv&auml;ri ]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;A photograph by Kimmo Syv&auml;ri commissioned by Code and Theory for Finlandia's global website (www.finlandia.com).&nbsp; ]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

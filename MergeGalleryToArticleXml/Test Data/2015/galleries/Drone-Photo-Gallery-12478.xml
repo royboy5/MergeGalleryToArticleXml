@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Drone Photo Gallery ]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/matt-wilson-_LFE4184_slideshow.jpg" alt="© Matt Wilson" width="550" height="365" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Matt Wilson]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;View of Luis Felipe Edwards vineyards. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/matt_wilson_9_Slideshow.jpg" alt="© Matt Wilson" width="472" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Matt Wilson]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Octo with Sony NEX 5 camera flying over photographer Matt Wilson's house. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Romeo_BIG_Slideshow.jpg" alt="© R. Durscher, Visual-Aerials.com" width="550" height="206" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; R. Durscher, Visual-Aerials.com]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;This aerial panorama of Notre Dame in Paris was made by Romeo Durscher using six individual images stitched together. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/nate_bolt_2_Slideshow.jpg" alt="© Nate Bolt and Ryan Schude" width="532" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Nate Bolt and Ryan Schude]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;Nate Bolt and Ryan Schude collaborated to fly a DJI Phantom 2 drone with a Ricoh GR set to 4-second exposure, using a strobe to freeze the action from 30 feet up at 11pm. ]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

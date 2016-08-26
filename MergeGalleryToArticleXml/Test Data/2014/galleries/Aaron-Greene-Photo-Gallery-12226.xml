@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Aaron Greene Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/aaron-greene--Lifestyle_006.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Aaron Greene]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[An image from Aaron Greene's lifestyle test shoot for Confluence Outdoor.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/aaron-greene--Lifestyle_005.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Aaron Greene]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Greene recruited friends for a day-long test shoot to show kayak manufacturer Confluence Outdoor that he was ready for their lifestyle assignments.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/aaron-greene--Bomber_004.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Aaron Greene]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Another image from Greene's Confluence Outdoor test shoot.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/aaron-greene-Bomber_002.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Aaron Greene]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Another image from Greene's Confluence Outdoor test shoot.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/aaron-greene--Bomber_006.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Aaron Greene]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Another image from Greene's Confluence Outdoor test shoot.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/AG-Bomber_005.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Aaron Greene]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Another image from Greene's Confluence Outdoor test shoot.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/aaron-greene--Lifestyle_001.jpg" width="550" height="365" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Aaron Greene]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Another image from Greene's Confluence Outdoor test shoot.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Video Budgets Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/stephanie-RAUSSER_7.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Stephanie Rausser]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[ While working on a lifestyle campaign for TempurPedic, Stephanie Rassuer had a day dedicated to shooting video.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/jcp_pdn_travller_denim_0006.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Jonathan Chapman]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[ From a still and video shoot for Traveller Denim, photographed by Jonathan Chapman. Chapman says his clients ask for the "subtle but impactful moments," which require him to have a second or third camera on set.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/jcp_pdn_mcdonalds_0006.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Jonathan Chapman]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[ An image from a video assignment Chapman shot for McDonald's last fall in cities across Europe and in the U.K.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/jcp_pdn_target_0001.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Jonathan Chapman]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[ A still Chapman shot for a campaign for the education initiative Take Charge of Education, launched by Target, a client that has hired him to shoot both stills and motion.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

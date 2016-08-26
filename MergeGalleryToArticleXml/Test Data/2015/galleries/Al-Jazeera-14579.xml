@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Al Jazeera]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/09-Create-Al-Jazeera-Danielle-Villasana-01-s.jpg" width="471" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; DANIELLE VILLASANA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[As part of a story about arsenic in the well water in a village in Peru, Danielle Villasana submitted double-exposure portraits of local children.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/09-Create-Al-Jazeera-Glenna-Gordon-s.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; GLENNA GORDON]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[One overseas story Al Jazeera America published was Glenna Gordon’s “From Marriage to Murder,” about 14-year-old Nigerian bride Ramatu Alhaji-Murtala, who was accused of poisoning her husband.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/09-Create-Al-Jazeera-Kate-Brooks-01-s.jpg" width="550" height="358" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; KATE BROOKS/REDUX]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Kate Brooks pitched Al Jazeera America a story about the human toll of rhino poaching in South Africa. ]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

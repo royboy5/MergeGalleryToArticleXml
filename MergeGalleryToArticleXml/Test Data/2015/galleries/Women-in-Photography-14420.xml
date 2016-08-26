@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Women in Photography]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/09-Theme-Sisterhood-WPOW-DC-s.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[Courtesy WPOW]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Image from Women Photojournalists of Washington’s Fourth Annual Seminar and Portfolio Review.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/09-Theme-Sisterhood-WPOW-02-s.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[Courtesy WPOW]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Image from Women Photojournalists of Washington’s Fourth Annual Seminar and Portfolio Review. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/09-Theme-Sisterhood-CWIP-Group-s.jpg" width="473" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[Courtesy Meg Handler]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[As many members of Chicago Women in Photography as could fit in Tweet Let’s Eat restaurant in Chicago.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Notable Books III ]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/1-Memory-City.jpg" width="550" height="366" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Alex Webb/Courtesy Radius Books]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;from <em>Memory City.</em>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/2-Memory-City.jpg" width="550" height="362" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Alex Webb/Courtesy Radius Books]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;from <em>Memory City.</em>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/3-Red-Ball-Sun-Slipping-Down.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Eugene Richards]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;Image from <em>Red Ball of a Sun Slipping Down</em>.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/4-Red-Ball-Sun-Slipping-Down.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Eugene Richards]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;Image from <em>Red Ball of a Sun Slipping Down.</em>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/5-Hidden_Islam_02.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Nicol&oacute; Degiorgis ]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;Image from <em>Hidden Islam.</em>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/6-Hidden_Islam_09.jpg" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Nicol&oacute; Degiorgis ]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;Image from <em>Hidden Islam.</em>]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

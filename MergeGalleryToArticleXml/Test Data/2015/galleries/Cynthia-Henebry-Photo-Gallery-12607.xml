@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Cynthia Henebry Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/BIG_cynthia_henebry2_Slideshow.jpg" alt="© Cynthia Henebry" width="550" height="440" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Cynthia Henebry]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;"Mason on the Back Porch," 2013. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/BIG_cynthia_henebry9_Slideshow.jpg" alt="© Cynthia Henebry" width="550" height="440" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Cynthia Henebry]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;"East End," 2014. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/cynthia_henebry14_Slideshow.jpg" alt="© Cynthia Henebry" width="550" height="440" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Cynthia Henebry]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;"Aya," 2012. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/cynthia_henebry3_Slideshow.jpg" alt="© Cynthia Henebry" width="378" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Cynthia Henebry]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;"Kieran's First Self Portrait," 2014. ]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

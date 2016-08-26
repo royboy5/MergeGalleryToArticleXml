@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Eater.com's Features]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Dunea-Italy_Truffles_5_SLIDESHOW.jpg" alt="© Melanie Dunea" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Melanie Dunea]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">An image from Melanie Dunea’s “Off the Map with Italy’s Best Truffle Hunter” (December 2014). The photographer traipsed through the mud in an Italian forest with a truffle hunter to show the grimy reality of finding one of the world’s most expensive delicacies. </p>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Dunea-Italy_Truffles_11_SLIDESHOW.jpg" alt="© Melanie Dunea" width="550" height="367" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Melanie Dunea]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">An image from Melanie Dunea’s “Off the Map with Italy’s Best Truffle Hunter” (December 2014). The photographer traipsed through the mud in an Italian forest with a truffle hunter to show the grimy reality of finding one of the world’s most expensive delicacies. </p>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/andrew-thomas-lee-eater_goose_FINAL_0008_SLIDESHOW.jpg" alt="© Andrew Thomas Lee" width="315" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Andrew Thomas Lee]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">An image of a de-feathered goose, from Eater’s “A Wild Goose Chase” (January 2015), a feature on “ethical” foie gras photographed by Andrew Thomas Lee. </p>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/eater_rick-smith-1_SLIDESHOW.jpg" width="550" height="376" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">The layout for Eater’s feature on a large-scale ham producer, “Ghosts in the Ham House” (October 2014), photographed by Rick Smith.</p>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/eater_rick-smith-3_SLIDESHOW.jpg" width="550" height="373" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[
+
+<p class="p1">The layout for Eater’s feature on a large-scale ham producer, “Ghosts in the Ham House” (October 2014), photographed by Rick Smith.</p>]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

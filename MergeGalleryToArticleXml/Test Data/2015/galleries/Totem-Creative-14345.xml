@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Totem Creative]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/8-Create-Spotlight-Jason-Kim-01-s.jpg" width="370" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; LORD &amp; TAYLOR/PHOTOGRAPH BY JASON KIM]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[A layout from the Lord &amp; Taylor Spring Style Guide 2015 campaign, photographed by Jason Kim.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/8-Create-Spotlight-Jason-Kim-02-s.jpg" width="550" height="361" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[&copy; LORD &amp; TAYLOR/PHOTOGRAPH BY JASON KIM]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[A spread from the Lord &amp; Taylor Summer Style Guide 2015, photographed by Jason Kim. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/8-Create-Spotlight-Bill-Diodato-01-s.jpg" width="360" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; LORD &amp; TAYLOR/PHOTOGRAPH BY BILL DIODATO]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[A still-life image of a Chanel Coco Mademoiselle perfume bottle for the Lord &amp; Taylor Mother’s Day 2015 catalogue, photographed by Bill Diodato.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Maia Flore]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/9-Exposures-Maia-Flore-02-s.jpg" width="315" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; MAIA FLORE]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[“Playground,” 2015. French photographer Maia Flore creates her work both by staging scenes and by compositing images.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/9-Exposures-Maia-Flore-04-s.jpg" width="550" height="425" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; MAIA FLORE]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[“Ch&acirc;teau de Beauregard,” 2013.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/9-Exposures-Maia-Flore-janvier-s.jpg" width="537" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; MAIA FLORE]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[“Fougue et S&eacute;r&eacute;nit&eacute;,” 2012.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

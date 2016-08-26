@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Mona Kuhns Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/1-monakuhn-expo.jpg" width="355" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Mona Kuhn/Courtesy Edwynn Houk Gallery]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;An image from Mona Kuhn's series "Acido Dorado."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/2-MonaKuhn_BIGChanon_Slideshow.jpg" width="473" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Mona Kuhn/Courtesy Edwynn Houk Gallery]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;"Chanon, 2013," from Kuhn's series "Private."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/3-MonaKuhn_ThreeRays_Slideshow.jpg" width="473" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[ &copy; Mona Kuhn/Courtesy Edwynn Houk Gallery]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA["Three Rays," 2013, from Kuhn's series "Private." 
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/4-MonaKuhn_SmokeTree_Slideshow.jpg" width="473" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Mona Kuhn/Courtesy Edwynn Houk Gallery]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA["Smoke Tree," 2012, Kuhn's series "Private."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/5-MonaKuhn_Mirage_Slideshow.jpg" width="473" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Mona Kuhn/Courtesy Edwynn Houk Gallery]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;"Mirage," 2013, Kuhn's series "Private."]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/6-MonaKuhn_MetasAndMorphs_Slideshow.jpg" width="473" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Mona Kuhn/Courtesy Edwynn Houk Gallery]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[&nbsp;"Metas and Morphs," 2013, from Kuhn's series "Private." ]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

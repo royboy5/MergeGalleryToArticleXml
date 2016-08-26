@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Sunset Magazine Photo Gallery]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Sunset-COV0514_Cover_news_Slideshow.jpg" alt="© Sunset Publishing/Photo by Thomas J. Story" width="384" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Sunset Publishing/Photo by Thomas J. Story]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[The magazine's travel stories often focus on enjoying the outdoors, as in a recent cover story on camping, photographed by staff photographer Thomas J. Story.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Sunset-TNP0614A_Tijuana-1left_Slideshow.jpg" alt="© Sunset Publishing/Photos by Dave Lauridsen" width="550" height="345" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Sunset Publishing/Photos by Dave Lauridsen]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[A story on Tijuana, photographed by Dave Lauridsen, combines two areas of focus for the magazine: Food, and travel excursions that can be enjoyed in a weekend. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Sunset-TPF1213Y_Yellowstone-1left_Slideshow.jpg" alt="© Sunset Publishing/Photo by Brown Cannon III" width="550" height="345" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Sunset Publishing/Photo by Brown Cannon III]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[A story on the wolves of Yellowstone National Park, photographed by Brown Cannon III.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

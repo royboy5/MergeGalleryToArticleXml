@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Way to Go]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/waytogo2_SLIDESHOW.jpg" width="550" height="309" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; COURTESY NATIONAL FILM BOARD OF CANADA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Image from <em>Way to Go</em>. When players slow down and explore the 3D environment, hidden details emerge.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/waytogo1_SLIDESHOW.jpg" width="550" height="309" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; COURTESY NATIONAL FILM BOARD OF CANADA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[In <em>Way to Go</em>, players travel at their own pace, but along a predetermined path. “It’s kind of a paradox, of wanting to be guided but wanting to be free to do what you want,” Morisset says. “We play with that tension.”]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/FortMcMoney_-_Landing_Page_logo_SLIDESHOW.jpg" width="550" height="202" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; COURTESY NATIONAL FILM BOARD OF CANADA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[The landing page for <em>Fort McMoney</em>, a reality-based “docu-game” directed by David Dufresne.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/FortMcMoney_Tournage_SLIDESHOW.jpg" width="550" height="413" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; COURTESY NATIONAL FILM BOARD OF CANADA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Shooting video for <em>Fort McMoney</em>.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/FortMcMoney-Dashboard1_SLIDESHOW.jpg" width="550" height="417" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[&copy; COURTESY NATIONAL FILM BOARD OF CANADA]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[The dashboard for <em>Fort McMoney</em>, where players can review stats, vote on action to be taken in the town and view how many other people are playing the game.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Dufresne-FMM_SLIDESHOW.jpg" width="550" height="412" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; COURTESY NATIONAL FILM BOARD OF CANADA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[David Dufresne]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/Hugues_Sweeney_SLIDESHOW.jpg" width="400" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; COURTESY NATIONAL FILM BOARD OF CANADA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Hugues Sweeney]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Science Mag]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/10-create-MouseAvatar-JoeMcNally-2-s.jpg" width="316" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Joe McNally]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Joe McNally shot this portrait for the cover of Science’s issue on using animal models to fight human disease. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/10-create-AncientDNA-Cover-JorgSinger-Layout-s.jpg" width="367" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Science/Photo by Jorg Singer]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[<em>Science’s</em> July 24, 2015 cover featuring the ancient DNA story, which consisted of commissioned work from multiple photographers. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/10-create-UncontactedTribes-JasonHouston-Layout.jpg" width="550" height="350" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Science/Photo by Jason Houston]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[After a Pulitzer Center grant paid for a writer to visit indigenous tribes in the Amazon, Douthitt was able to send photographer Jason Houston to accompany him. ]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/10-create-MartianMeteorite-Cover-JoeMcNally-s.jpg" width="372" height="473" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; Science/Photo by  Joe McNally]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[The November 29, 2014 issue of Science, featuring a still life of a Martian meteorite shot by Joe McNally.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>

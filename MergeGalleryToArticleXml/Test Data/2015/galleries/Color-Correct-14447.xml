@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <gallery_title><![CDATA[Color Correct]]></gallery_title>
+    <gallery_slides>
+        <gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/9-gear-FPS-02-s.jpg" width="550" height="329" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; FILTHY LOOK FILMS]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[The flatter and more lifeless your capture file, the more latitude you’ll have to add pop and color, as in these film stills before (left) and after (right) color grading. The stills are from the 30-second short <em>Ellie in Two Shades of Grey</em> by Filthy Look Films.]]></gallery_image_caption>
+</gallery_slide><gallery_slide>
+    <galley_image><![CDATA[<img src="/static/content_images/9-gear-FPS-03-s.jpg" width="550" height="323" class="gallery_border">]]></galley_image>
+    <gallery_image_credit><![CDATA[&copy; ONYX CINEMA]]></gallery_image_credit>
+    <gallery_image_name><![CDATA[]]></gallery_image_name>
+    <gallery_image_caption><![CDATA[Footage from the Canon C100 before (left) and after color grading.  Bottom Row: Footage shot on the Panasonic GH4 before (left) and after color grading. Because of the idiosyncracies of how different cameras process color and contrast, Onyx Cinema used a combination of Colorista and FilmConvert to give footage shot on four different camera models a unified look.]]></gallery_image_caption>
+</gallery_slide>
+        
+    </gallery_slides>
+</gallery>
